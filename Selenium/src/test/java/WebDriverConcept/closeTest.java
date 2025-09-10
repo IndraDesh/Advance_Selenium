@@ -11,7 +11,8 @@ public class closeTest {
 			
 			WebDriver d=new ChromeDriver();
 			d.close();
-		//d.close();
+
 	}
 }
+
 
